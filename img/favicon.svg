@@ -1,6 +1,10 @@
-<svg
-    xmlns="http://www.w3.org/2000/svg" version="1.1" width="256" height="256" viewbox="0 0 949 256">
-    <path fill="#2366d1" d="M110.85125168440814 128L221.70250336881628 192L110.85125168440814 256L0 192Z"/>
-    <path fill="#609dff" d="M110.85125168440814 64L221.70250336881628 128L110.85125168440814 192L0 128Z"/>
-    <path fill="#a4c7ff" d="M110.85125168440814 0L221.70250336881628 64L110.85125168440814 128L0 64Z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(0.98389,0,0,0.98389,-194.903,-62.2027)">
+        <path d="M312.537,63.221L425.203,128.269L425.203,258.365L312.537,323.413L199.87,258.365L199.87,128.269L312.537,63.221Z" style="fill:url(#_Radial1);stroke:black;stroke-opacity:0;stroke-width:1.02px;"/>
+    </g>
+    <defs>
+        <radialGradient id="_Radial1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(260.192,0,0,260.192,182.441,193.317)"><stop offset="0" style="stop-color:rgb(9,102,211);stop-opacity:1"/><stop offset="0.33" style="stop-color:rgb(67,80,159);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(194,45,56);stop-opacity:1"/></radialGradient>
+    </defs>
 </svg>
